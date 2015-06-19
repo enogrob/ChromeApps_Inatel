@@ -1,0 +1,17 @@
+{
+  "name": "MDEDesign",
+  "description": "Access MDEDesign",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ericoll.internal.ericsson.com/sites/System_Management_at_EDB/Pages/MDEDesignEDB.aspx"
+    ],
+    "launch": {
+      "web_url": "https://ericoll.internal.ericsson.com/sites/System_Management_at_EDB/Pages/MDEDesignEDB.aspx"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

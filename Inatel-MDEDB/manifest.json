@@ -1,0 +1,17 @@
+{
+  "name": "MDEDB",
+  "description": "Access MDEDB",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://clearquest.ac.de.eu.ericsson.se/cqweb/"
+    ],
+    "launch": {
+      "web_url": "https://clearquest.ac.de.eu.ericsson.se/cqweb/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "WebDCL-AKS",
+  "description": "Access WebDCL-AKS",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://brajdi3.br.am.ericsson.se/webdcl_mde_actkey/webdcl.php"
+    ],
+    "launch": {
+      "web_url": "http://brajdi3.br.am.ericsson.se/webdcl_mde_actkey/webdcl.php"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "COP",
+  "description": "Access COP",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ericoll.internal.ericsson.com/sites/mde-dcne-market-development/MDE_Internal/COP/default.aspx"
+    ],
+    "launch": {
+      "web_url": "https://ericoll.internal.ericsson.com/sites/mde-dcne-market-development/MDE_Internal/COP/default.aspx"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

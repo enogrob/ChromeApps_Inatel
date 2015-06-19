@@ -1,0 +1,17 @@
+{
+  "name": "MDEPackages",
+  "description": "Access MDEPackages",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ericoll.internal.ericsson.com/sites/mde-dcne-market-development/MDE%20Packages/Lists/MCP%20Packages/AllItems.aspx"
+    ],
+    "launch": {
+      "web_url": "https://ericoll.internal.ericsson.com/sites/mde-dcne-market-development/MDE%20Packages/Lists/MCP%20Packages/AllItems.aspx"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

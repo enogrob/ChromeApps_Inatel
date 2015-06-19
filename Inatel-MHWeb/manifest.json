@@ -1,0 +1,17 @@
+{
+  "name": "MHWeb",
+  "description": "Access MHWeb",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://mhweb.ericsson.se/"
+    ],
+    "launch": {
+      "web_url": "https://mhweb.ericsson.se/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

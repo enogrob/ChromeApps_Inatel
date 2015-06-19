@@ -1,0 +1,17 @@
+{
+  "name": "MDEUserGuides",
+  "description": "Access MDEUserGuides",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ericoll.internal.ericsson.com/sites/mde-dcne-market-development/MDE_Internal/MDB/Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fmde%2Ddcne%2Dmarket%2Ddevelopment%2FMDE%5FInternal%2FMDB%2FDocuments%2FUser%20Guides&FolderCTID=0x012000ED67F18C7C71904A93C546991542B76F&View={AAF1E7F8-706D-4BC8-8D87-107850C9F7D8}"
+    ],
+    "launch": {
+      "web_url": "https://ericoll.internal.ericsson.com/sites/mde-dcne-market-development/MDE_Internal/MDB/Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2Fmde%2Ddcne%2Dmarket%2Ddevelopment%2FMDE%5FInternal%2FMDB%2FDocuments%2FUser%20Guides&FolderCTID=0x012000ED67F18C7C71904A93C546991542B76F&View={AAF1E7F8-706D-4BC8-8D87-107850C9F7D8}"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

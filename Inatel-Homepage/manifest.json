@@ -1,0 +1,17 @@
+{
+  "name": "Homepage",
+  "description": "Access Homepage",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.inatel.br"
+    ],
+    "launch": {
+      "web_url": "http://www.inatel.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

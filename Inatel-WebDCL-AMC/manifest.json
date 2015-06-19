@@ -1,0 +1,17 @@
+{
+  "name": "WebDCL-AMC",
+  "description": "WebDCL-AMC",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://137.58.113.42/webdcl_mde/webdcl.php"
+    ],
+    "launch": {
+      "web_url": "http://137.58.113.42/webdcl_mde/webdcl.php"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

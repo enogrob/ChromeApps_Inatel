@@ -1,0 +1,17 @@
+{
+  "name": "Ericoll",
+  "description": "Access Ericoll",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ericoll.internal.ericsson.com/"
+    ],
+    "launch": {
+      "web_url": "https://ericoll.internal.ericsson.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

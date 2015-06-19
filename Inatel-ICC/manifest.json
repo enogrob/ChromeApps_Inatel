@@ -1,0 +1,17 @@
+{
+  "name": "ICC",
+  "description": "Access ICC",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.inatel.br/icc/"
+    ],
+    "launch": {
+      "web_url": "http://www.inatel.br/icc/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

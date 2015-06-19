@@ -1,0 +1,17 @@
+{
+  "name": "XenApp",
+  "description": "Access XenApp",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://hubdeac.ericsson.se/Citrix/XenApp/auth/login.aspx?CTX_MessageType=WARNING&CTX_MessageKey=NoUsableClientDetected"
+    ],
+    "launch": {
+      "web_url": "https://hubdeac.ericsson.se/Citrix/XenApp/auth/login.aspx?CTX_MessageType=WARNING&CTX_MessageKey=NoUsableClientDetected"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

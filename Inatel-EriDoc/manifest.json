@@ -1,0 +1,17 @@
+{
+  "name": "EriDoc",
+  "description": "Access EriDoc",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://eridoc.ericsson.se"
+    ],
+    "launch": {
+      "web_url": "https://eridoc.ericsson.se"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
