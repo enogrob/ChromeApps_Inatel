@@ -58,4 +58,4 @@ chrome://extensions/
 
 ***Notice:*** In order that the `Ericoll` and `EriDoc` sites work properly in Chrome the `IE Tab` extension shall be installed(see below), and in its options e.g. `Auto URLs`, add `*ericoll*` and afterwards `*eridoc*`.
 
-Homepage: [gitIE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en-US&utm_source=chrome-ntp-launcher)
+Homepage: [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd?hl=en-US&utm_source=chrome-ntp-launcher)
