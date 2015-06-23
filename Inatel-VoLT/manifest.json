@@ -1,0 +1,17 @@
+{
+  "name": "VoLT",
+  "description": "Access VoLT",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ericoll.internal.ericsson.com/sites/MSS_GPD_Program/MSS13A_Deployment/Competence_Center/default.aspx?PageView=Shared"
+    ],
+    "launch": {
+      "web_url": "https://ericoll.internal.ericsson.com/sites/MSS_GPD_Program/MSS13A_Deployment/Competence_Center/default.aspx?PageView=Shared"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

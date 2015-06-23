@@ -1,0 +1,17 @@
+{
+  "name": "Blog",
+  "description": "Access Blog",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://192.168.25.77:82/wp-login.php"
+    ],
+    "launch": {
+      "web_url": "http://192.168.25.77:82/wp-login.php"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
