@@ -1,0 +1,17 @@
+{
+  "name": "Auto-atendimento",
+  "description": "Access Auto-atendimento",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.inatel.br/intranet/solicitacoes"
+    ],
+    "launch": {
+      "web_url": "http://www.inatel.br/intranet/solicitacoes"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
