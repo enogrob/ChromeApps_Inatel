@@ -1,0 +1,17 @@
+{
+  "name": "Stash",
+  "description": "Access Stash",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://gitsrv-teste:7990/projects"
+    ],
+    "launch": {
+      "web_url": "http://gitsrv-teste:7990/projects"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
